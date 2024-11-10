@@ -1,0 +1,23 @@
+{
+  "name": "ebac_testes_unitarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuintilianoNery/Ebac_Testes_Unitarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuintilianoNery/Ebac_Testes_Unitarios/issues"
+  },
+  "homepage": "https://github.com/QuintilianoNery/Ebac_Testes_Unitarios#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
